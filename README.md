@@ -41,8 +41,3 @@ Track Amazon product prices over time and get visual insights, alerts, and compa
 5. AI finds the same product on other platforms and compares prices.
 6. Email alerts users when price drops below a threshold.
 
-🔗 Live Demo 
-
-
-
-- Jaspreet Kaur
